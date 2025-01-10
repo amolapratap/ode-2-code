@@ -1,2 +1,2 @@
-# ode-2-c0de
+# ode-2-code
 Hackthon for techfusion
